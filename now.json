@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "name": "cookie-auth-next",
+  "alias": ["cookie-auth-next.now.sh"],
+  "builds": [{ "src": "next.config.js", "use": "@now/next" }]
+}
